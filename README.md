@@ -9,6 +9,7 @@ La librería es ocmpatible con transmission 4.0.2 utilizando la imagen [linuxser
 ## Funcionalidades
 | command | status |
 |---------|--------|
+| auth-support | added |
 | torrent-add | added |
 | torrent-get | added |
 | torrent-remove | added |
